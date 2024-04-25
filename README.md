@@ -1,3 +1,6 @@
+Deployed at URl with documentation : https://book-app-vb22.onrender.com/docs/
+
+
 1. Download and install NodeJS (v18.16.0)
 2. Clone this repository
 3. Run the command npm i to install dependencies
